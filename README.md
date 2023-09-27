@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="gif/fictitious.gif" width="40%" height="40%"> 
-  <img src="gif/reality.gif" width="50%"> 
+  <img src="gif/reality.gif" width="60%"> 
 </div>
 
 ### 核心方法
