@@ -1,6 +1,6 @@
 # DraggableProgressCircle 拿过去直接用吧！ 如果好用给个 Star ！
 
-####
+#### GIF 示例 (不挂 VPN 查看不了 GIF)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="gif/fictitious.gif" marginTop="0" width="40%" height="40%"> 
