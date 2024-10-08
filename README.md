@@ -1,5 +1,5 @@
 # DraggableProgressCircle 拿过去直接用吧！ 如果好用给个 Star ！
-
+# 由于给的 UI 用第三方库很难实现，就自己写了一个。难点在于角度和弧度的计算，和拖动手势得处理。
 #### GIF 示例 (不挂 VPN 查看不了 GIF)
 
 <div style="display: flex; justify-content: space-between;">
@@ -8,7 +8,7 @@
 </div>
 
 ### 核心方法
-
+角度转弧度和弧度计算！
 ```swift
     @objc func handlePan(_ gestureRecognizer: UIPanGestureRecognizer) {
         let translation = gestureRecognizer.translation(in: view)
